@@ -32,6 +32,7 @@
 - `docs/gear.md`: 装備方針
 - `data/gear.csv`: 装備チェックリスト
 - `docs/meals.md`: 食事計画
+- `docs/food-wishlist.md`: 食べたいものの候補リスト
 - `data/meal-plan.csv`: 食材・献立管理
 - `docs/budget.md`: 予算方針
 - `data/budget.csv`: 費用台帳

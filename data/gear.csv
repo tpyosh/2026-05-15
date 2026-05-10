@@ -1,0 +1,53 @@
+category,item,required,quantity,owner,packed,status,notes
+sleeping,tent,yes,1,TBD,no,not_started,人数と区画サイズに合わせる
+sleeping,大きいタープ,no,1,達平,no,assigned,雨天・日差し対策
+sleeping,小さいタープ,no,1,平井,no,assigned,雨天・日差し対策
+sleeping,sleeping bag,yes,TBD,TBD,no,not_started,季節の最低気温に合わせる
+sleeping,sleeping mat,yes,TBD,TBD,no,not_started,人数分
+lighting,ランタン,yes,1,平井,no,assigned,メインまたは予備
+lighting,ランタン,yes,1,達平,no,assigned,メインまたは予備
+lighting,headlamp,yes,TBD,TBD,no,not_started,人数分
+cooking,ガスコンロ,yes,1,今井,no,assigned,メイン。燃料種類を確認
+cooking,ガスコンロ,yes,1,平井,no,assigned,予備。燃料種類を確認
+cooking,CD缶,yes,1,達平,no,assigned,ガスコンロ用燃料
+cooking,CD缶,yes,1,今井,no,assigned,ガスコンロ用燃料
+cooking,CD缶,yes,1,平井,no,assigned,ガスコンロ用燃料
+cooking,cookware,yes,1,TBD,no,not_started,鍋・フライパン
+cooking,スキレット,no,1,平井,no,assigned,調理器具
+cooking,小さいスキレット,no,1,平井,no,assigned,調理器具
+cooking,包丁,no,1,平井,no,assigned,調理器具
+cooking,まな板,no,1,平井,no,assigned,調理器具
+cooking,フライパン,no,1,達平,no,assigned,調理器具
+cooking,鍋,no,1,達平,no,assigned,調理器具
+cooking,エスプレッソマシン,no,1,今井,no,assigned,コーヒー器具
+cooking,コーヒー豆,no,1,今井,no,assigned,コーヒー用
+cooking,やかん,no,1,平井,no,assigned,調理器具
+cooking,トング,no,1,平井,no,assigned,調理器具
+cooking,フライ返し,no,1,今井,no,assigned,調理器具
+cooking,かき混ぜ器,no,1,今井,no,assigned,調理器具
+cooking,ボウル,no,1,達平,no,assigned,調理器具
+cooking,tableware,yes,TBD,TBD,no,not_started,皿・箸・カップ
+cooking,紙皿,no,1,今井,no,assigned,使い捨て食器
+cooking,紙コップ,no,1,今井,no,assigned,使い捨て食器
+cooking,割り箸,no,1,達平,no,assigned,使い捨て食器
+cooking,栓抜きワインオープナー,no,1,平井,no,assigned,飲料用小物
+food,クーラーボックス,yes,1,達平,no,assigned,保冷剤も含む
+food,クーラーボックス,yes,1,平井,no,assigned,保冷剤も含む
+food,パスマティライス,no,1,今井,no,assigned,ビリヤニ用食材
+food,ビリヤニの素,no,1,達平,no,assigned,ビリヤニ用食材
+food,パエリア用の米2合,no,1,平井,no,assigned,パエリア用食材
+water,water tank,yes,1,TBD,no,not_started,飲料・調理・洗い物用
+clothing,rainwear,yes,TBD,TBD,no,not_started,雨天・防寒
+health,蚊取り線香,no,1,平井,no,assigned,虫対策
+safety,first aid kit,yes,1,TBD,no,not_started,常備薬を含む
+safety,fire extinguisher or fire blanket,no,1,TBD,no,not_started,焚き火をする場合に検討
+fire,焚き火台,yes,1,達平,no,assigned,直火禁止のため焚き火をする場合は必須
+fire,焚き火台,yes,1,平井,no,assigned,直火禁止のため焚き火をする場合は必須
+fire,heat resistant sheet,yes,1,TBD,no,not_started,焚き火台とあわせて用意
+fire,灰皿,no,1,平井,no,assigned,火まわり備品
+fire,炭4kg,no,1,平井,no,assigned,燃料
+setup,大きいテーブル,no,1,今井,no,assigned,サイト設営用
+setup,大きいテーブル,no,1,平井,no,assigned,サイト設営用
+setup,小さいテーブル,no,1,平井,no,assigned,サイト設営用
+setup,extra pegs and guy ropes,yes,TBD,TBD,no,not_started,オートサイトは強風に注意
+cleanup,trash bags,yes,TBD,TBD,no,not_started,分別ルールに合わせる

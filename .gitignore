@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+
+# Local/private notes
+local/
+*.private.*
+
+# Exported temporary files
+*.tmp
+*.bak

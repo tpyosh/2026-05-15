@@ -1,0 +1,85 @@
+trip:
+  name: "尾高高原キャンプ場キャンプ"
+  purpose:
+    - "自然の中でゆっくり過ごす"
+    - "無理のない移動と設営にする"
+  dates:
+    depart: "TBD"
+    return: "TBD"
+    nights: "TBD"
+  destination:
+    campsite_name: "尾高高原キャンプ場"
+    area: "三重県三重郡菰野町"
+    address: "三重県三重郡菰野町大字杉谷2300番地1"
+    website: "https://odakacamp.notion.site/Web-21232ebe90fc80888891c86e890f35df"
+    price_list_url: "https://odakacamp.notion.site/Price-List-21232ebe90fc801d913ec7168fc8d4a3"
+    availability_url: "https://odakacamp.notion.site/Availability-Calendar-21232ebe90fc80bcaaf8e60034a1b35e"
+    map_url: "https://www.google.com/maps/d/viewer?mid=1_NpP5-fd4Rfi2wVTlpIoy5kc0yF7VFYh&usp=sharing"
+    site_map_url: "https://www.google.com/maps/d/viewer?mid=1Uq18g76NeYGdo9BnTqYQhnFubCqhHY62&usp=sharing"
+    surrounding_map_url: "https://www.google.com/maps/d/viewer?mid=1219rEZ1RXM5S-QFA2fsaMzZI5sVCagiM&usp=sharing"
+  party:
+    adults: 3
+    children: 0
+    pets: 0
+    members:
+      - "達平"
+      - "今井"
+      - "平井"
+  transportation:
+    method: "TBD"
+    vehicles: []
+    meeting_place: "TBD"
+    meeting_time: "TBD"
+    shopping_stop:
+      name: "イオンモール東員"
+      start_time: "10:00"
+      address: "三重県員弁郡東員町大字長深字築田510番地1"
+      website: "https://toin-aeonmall.com/"
+      service_guide_url: "https://toin-aeonmall.com/static/detail/serviceguide"
+      notes:
+        - "専門店街・フードコートは平日月〜木10:00〜20:00、金・土・日・祝10:00〜21:00。"
+        - "イオン東員店1F食品は8:00〜23:00。"
+        - "一部営業時間が異なる店舗あり。"
+  booking:
+    status: "campground_decided"
+    method: "電話のみ"
+    phone: "059-396-3900"
+    reception_hours: "9:00〜18:00"
+    reservation_window: "原則3か月前から"
+    reservation_name: "TBD"
+    confirmation_location: "assets/ または references/ に控えを保存"
+  constraints:
+    check_in: "11:00〜16:00"
+    check_out: "8:00〜10:00"
+    day_camp_hours: "10:00〜15:00"
+    vehicle_entry_hours: "8:00〜18:00"
+    office_hours: "9:00〜18:00"
+    quiet_hours: "大声・大音量の音楽は禁止"
+    fire_rules: "直火禁止。焚き火台などを利用する。"
+    garbage_rules: "ゴミ箱なし。ゴミは持ち帰り。灰は各流し台横の灰入れへ。"
+    tent_rules: "1サイトにつき原則テント1張り。小型テントは追加1張りまで許可される場合あり。テント貸出なし。"
+    pet_rules: "同伴希望は予約時に相談。サイト状況によって断られる場合あり。"
+    prohibited:
+      - "ドローン"
+      - "直火"
+      - "大声・大音量の音楽"
+      - "花火（線香花火を除く）"
+    weather_closure: "悪天候が予想され、安全に利用できないと判断された場合は閉場あり。"
+  weather:
+    area: "三重県菰野町"
+    sources:
+      - "https://weathernews.jp/onebox/tenki/mie/24341/"
+      - "https://tenki.jp/forecast/5/27/5310/24341/"
+      - "https://weather.yahoo.co.jp/weather/jp/24/5310/24341.html"
+      - "https://www.jma.go.jp/bosai/forecast/#area_type=class20s&area_code=2434100"
+    check_timing:
+      - "7日前"
+      - "3日前"
+      - "前日"
+      - "当日朝"
+  emergency:
+    campsite_phone: "059-396-3900"
+    nearest_hospital: "TBD"
+    nearest_store: "周辺案内地図を確認"
+    nearest_gas_station: "周辺案内地図を確認"
+  source_checked_at: "2026-05-10"
