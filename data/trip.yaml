@@ -4,9 +4,9 @@ trip:
     - "自然の中でゆっくり過ごす"
     - "無理のない移動と設営にする"
   dates:
-    depart: "TBD"
-    return: "TBD"
-    nights: "TBD"
+    depart: "2026-05-15"
+    return: "2026-05-16"
+    nights: 1
   destination:
     campsite_name: "尾高高原キャンプ場"
     area: "三重県三重郡菰野町"
@@ -28,8 +28,10 @@ trip:
   transportation:
     method: "TBD"
     vehicles: []
-    meeting_place: "TBD"
-    meeting_time: "TBD"
+    start_place: "名古屋市金山"
+    meeting_place: "名古屋市金山"
+    meeting_time: "イオンモール東員10:00着から逆算"
+    route_planning: "名古屋市金山を出発し、イオンモール東員に10:00に着くように逆算して出発する"
     shopping_stop:
       name: "イオンモール東員"
       start_time: "10:00"
@@ -41,12 +43,15 @@ trip:
         - "イオン東員店1F食品は8:00〜23:00。"
         - "一部営業時間が異なる店舗あり。"
   booking:
-    status: "campground_decided"
+    status: "date_site_type_and_fee_confirmed"
     method: "電話のみ"
     phone: "059-396-3900"
     reception_hours: "9:00〜18:00"
     reservation_window: "原則3か月前から"
     reservation_name: "TBD"
+    site_type: "フリーサイト"
+    confirmed_fee_yen: 2700
+    confirmed_fee_notes: "入場料込み。3名合計として扱う"
     confirmation_location: "assets/ または references/ に控えを保存"
   constraints:
     check_in: "11:00〜16:00"

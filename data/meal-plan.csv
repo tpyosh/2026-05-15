@@ -1,3 +1,3 @@
 day,meal,dish,ingredients,prep_owner,cooking_method,needs_cooler,notes
-Day 1,dinner,TBD,TBD,TBD,TBD,yes,TBD
-Day 2,breakfast,TBD,TBD,TBD,TBD,yes,TBD
+Day 1,dinner,TBD,TBD,TBD,TBD,yes,レシピと必要食材が未確定のためTODO扱い
+Day 2,breakfast,TBD,TBD,TBD,TBD,yes,レシピまたは購入品と必要食材が未確定のためTODO扱い

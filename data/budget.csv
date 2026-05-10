@@ -1,8 +1,5 @@
 category,item,estimated_cost,actual_cost,payer,split_method,status,notes
-site,entrance fee adult,200,0,TBD,per_person,not_started,中学生以上1人あたり
-site,entrance fee child,100,0,TBD,per_person,not_started,小学生1人あたり。小学生未満は無料
-site,auto site,5000,0,TBD,shared,not_started,1区画。AC電源付き
-site,free site,3500,0,TBD,shared,not_started,テント1張り。タープ1張りにつき500円追加
+site,free site including entrance,2700,2700,TBD,shared,confirmed,フリーサイト。入場料込み。3名合計として扱う
 transport,fuel and tolls,0,0,TBD,per_car,not_started,TBD
 food,ingredients,0,0,TBD,per_person,not_started,TBD
 supplies,firewood,600,0,TBD,shared,not_started,薪1束
