@@ -35,5 +35,9 @@ Only include dietary restrictions, allergies, dislikes, substitutions, or specia
 
 ## Derived Food List
 
-`docs/food-list.md` is derived from the recipes in `docs/recipes/`.
-When adding, updating, renaming, or deleting a recipe, update `docs/food-list.md` in the same change so it remains a complete food list.
+`docs/food-list.md` is subordinate to `docs/recipes/`.
+Treat `docs/recipes/` as the source of truth and keep `docs/food-list.md` complete for all ingredients required by registered recipes.
+When adding, updating, renaming, or deleting a recipe, update `docs/food-list.md` in the same change.
+Each ingredient row in `docs/food-list.md` must include a procurement/status column.
+If an ingredient is already decided to be brought, state that in the status column; otherwise state that it needs to be purchased.
+Do not include ad hoc or recipe-free menus in `docs/food-list.md` unless they are added to `docs/recipes/`.

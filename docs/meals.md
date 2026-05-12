@@ -10,30 +10,20 @@
 | `食材` | 米、塩など、買い出しや持ち物として持つときの粒度の単位 |
 | `メニュー` | `食材` から作られる料理の単位。実際に食べるときの単位 |
 
-## 方針
 
-- 調理時間を短くし、設営と撤収に余裕を残す。
-- 生鮮食品は保冷できる量に抑える。
-- 雨天時でも作れるメニューを優先する。
-- 食事制約は `data/participants.csv` の `dietary_notes` を正とする。
-
-## メニュー
-
-メニューは、料理名だけでなくレシピまたは調理手順、必要食材、買い出し要否まで決まった時点で確定扱いにします。
-レシピや必要食材が決まっていないメニューは `tasks/todo.md` でTODOとして管理します。
-
-| 食事 | 方針 | 状態 |
-| --- | --- | --- |
-| 1日目昼 | 移動中または買い出しで簡単に済ませる | TODO: 食べ方と買い出し要否を決める |
-| 1日目夜 | メインメニューを1つに絞る | TODO: レシピと必要食材を決める |
-| 2日目朝 | 撤収しやすい簡単なものにする | TODO: レシピまたは購入品と必要食材を決める |
 
 ## レシピ
 
 - [キャンプ用アクアパッツァ 4人分](recipes/camping-acqua-pazza-for-4.md)
+- [カルニタス風タコス](recipes/camping-carnitas-tacos-for-3.md)
+- [コリアンバーベキュー](recipes/camping-korean-bbq.md)
+- [簡易燻製盛り合わせ](recipes/camping-smoked-foods-for-3.md)
+- [ホットケーキ](recipes/camping-hotcakes-for-3.md)
+- [オレンジチキン](recipes/camping-orange-chicken-for-3.md)
+- [市販パプリカシーズニングの簡易パエリア 3人分](recipes/camping-paprika-seasoning-paella-for-3.md)
 - [キャンプ用スペアリブ 4人分](recipes/camping-spareribs-for-4.md)
 
-## レシピ由来の食材リスト
+## レシピ従属の必要食材リスト
 
 - [食材リスト](food-list.md)
 

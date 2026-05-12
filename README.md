@@ -33,7 +33,7 @@
 | 移動、集合、買い出し地点 | [docs/transport.md](docs/transport.md) |
 | 共有装備の確認 | [docs/gear.md](docs/gear.md), [data/gear.csv](data/gear.csv) |
 | 食事計画、レシピ、買い出し観点 | [docs/meals.md](docs/meals.md) |
-| レシピ由来の食材リスト | [docs/food-list.md](docs/food-list.md) |
+| レシピ従属の必要食材リスト | [docs/food-list.md](docs/food-list.md) |
 | 食べたいもの候補 | [docs/food-wishlist.md](docs/food-wishlist.md) |
 | 予算と精算 | [docs/budget.md](docs/budget.md), [data/budget.csv](data/budget.csv) |
 | 安全確認、緊急連絡 | [docs/safety.md](docs/safety.md) |
@@ -58,7 +58,7 @@
 - 確定した事実は `data/` を先に更新する。
 - 判断理由、手順、当日の使いやすさは `docs/` に書く。
 - 外部情報を写した場合は `references/` に確認日を残す。
-- レシピを追加、更新、削除したら `docs/food-list.md` も同じ変更で更新する。
+- `docs/recipes/` を食材の正とし、レシピを追加、更新、削除したら `docs/food-list.md` も同じ変更で更新する。
 - レシピ上必須の調理器具が `data/gear.csv` で担当未定なら、誰が持ってくるか決めるタスクを `tasks/todo.md` に追加する。
 - 予約番号、個人連絡先、決済情報は `local/` に置き、Git管理しない。
 
