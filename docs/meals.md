@@ -1,7 +1,7 @@
 # Meals
 
 食事計画の入口です。
-確定したメニューは `data/meal-plan.csv`、候補は `docs/food-wishlist.md`、詳細レシピは `docs/recipes/` に置きます。
+確定したメニューは `data/meal-plan.csv`、詳細レシピは `docs/recipes/` に置きます。
 
 ## 用語
 
@@ -14,18 +14,19 @@
 
 ## レシピ
 
-- [キャンプ用アクアパッツァ 4人分](recipes/camping-acqua-pazza-for-4.md)
+- [キャンプ用アクアパッツァ](recipes/camping-acqua-pazza-for-3.md)
 - [カルニタス風タコス](recipes/camping-carnitas-tacos-for-3.md)
 - [コリアンバーベキュー](recipes/camping-korean-bbq.md)
 - [簡易燻製盛り合わせ](recipes/camping-smoked-foods-for-3.md)
 - [ホットケーキ](recipes/camping-hotcakes-for-3.md)
 - [オレンジチキン](recipes/camping-orange-chicken-for-3.md)
-- [市販パプリカシーズニングの簡易パエリア 3人分](recipes/camping-paprika-seasoning-paella-for-3.md)
-- [キャンプ用スペアリブ 4人分](recipes/camping-spareribs-for-4.md)
+- [市販パプリカシーズニングの簡易パエリア](recipes/camping-paprika-seasoning-paella-for-3.md)
+- [キャンプ用スペアリブ](recipes/camping-spareribs-for-3.md)
 
 ## レシピ従属の必要食材リスト
 
 - [食材リスト](food-list.md)
+- [食べる量の見積もり](meal-volume.md)
 
 ## 買い出しメモ
 

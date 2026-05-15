@@ -34,7 +34,6 @@
 | 共有装備の確認 | [docs/gear.md](docs/gear.md), [data/gear.csv](data/gear.csv) |
 | 食事計画、レシピ、買い出し観点 | [docs/meals.md](docs/meals.md) |
 | レシピ従属の必要食材リスト | [docs/food-list.md](docs/food-list.md) |
-| 食べたいもの候補 | [docs/food-wishlist.md](docs/food-wishlist.md) |
 | 予算と精算 | [docs/budget.md](docs/budget.md), [data/budget.csv](data/budget.csv) |
 | 安全確認、緊急連絡 | [docs/safety.md](docs/safety.md) |
 | 実行タスク | [tasks/todo.md](tasks/todo.md) |
