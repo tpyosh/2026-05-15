@@ -9,7 +9,10 @@ owner,category,item,quantity,packed,notes
 達平,cooking,円錐型のコーヒーフィルター,必要数,no,コーヒー用
 達平,cooking,ビニール手袋,必要数,no,調理・衛生用
 達平,cooking,金属製の串,必要数,no,調理器具
+達平,cooking,フリーザーバッグ,10枚,no,食材の小分け・保管用
+達平,cooking,焼肉用鉄板,1,no,スペアリブ・コリアンバーベキュー用
 達平,cleanup,ビニール袋,必要数,no,整理・持ち帰り用
+達平,cleanup,名古屋市ゴミ袋,必要数,no,ゴミ持ち帰り用
 達平,cleanup,スポンジ,1,no,洗い物用
 達平,cleanup,キッチンペーパー,50枚くらい,no,調理・片付け用
 達平,tableware,割り箸,1セット,no,使い捨て食器
@@ -50,4 +53,3 @@ owner,category,item,quantity,packed,notes
 平井,site,小さいテーブル,1,no,サイト設営用
 担当未定,water,ウォータータンク,1,no,飲料・調理・洗い物用
 担当未定,fire,耐熱シート,1,no,焚き火台とあわせて使用
-担当未定,cleanup,ゴミ袋,必要数,no,持ち帰り用
