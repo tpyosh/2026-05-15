@@ -13,7 +13,7 @@
 | サイト料金 | 入場料込み2,700円 | [予算](docs/budget.md), [費用台帳](data/budget.csv) |
 | スタート | 名古屋市金山。イオンモール東員10:00着から逆算して出発 | [移動と買い出し](docs/transport.md), [当日スケジュール](docs/schedule.md) |
 | 買い出し | イオンモール東員で10:00開始 | [移動と買い出し](docs/transport.md), [食事計画](docs/meals.md) |
-| 予約 | 未実施。電話予約 | [予約前チェック](docs/site-and-booking.md), [ToDo](tasks/todo.md) |
+| 予約 | 予約済み。予約控えは `local/` で管理 | [予約・キャンプ場](docs/site-and-booking.md), [ToDo](tasks/todo.md) |
 | 食事 | レシピ・必要食材が未確定のメニューはTODO扱い | [食事計画](docs/meals.md), [ToDo](tasks/todo.md) |
 
 ## 用語定義

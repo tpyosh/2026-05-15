@@ -43,16 +43,16 @@ trip:
         - "イオン東員店1F食品は8:00〜23:00。"
         - "一部営業時間が異なる店舗あり。"
   booking:
-    status: "date_site_type_and_fee_confirmed"
+    status: "reserved"
     method: "電話のみ"
     phone: "059-396-3900"
     reception_hours: "9:00〜18:00"
     reservation_window: "原則3か月前から"
-    reservation_name: "TBD"
+    reservation_name: "local/の予約控えを参照"
     site_type: "フリーサイト"
     confirmed_fee_yen: 2700
     confirmed_fee_notes: "入場料込み。3名合計として扱う"
-    confirmation_location: "assets/ または references/ に控えを保存"
+    confirmation_location: "予約番号や個人情報を含む控えは local/ に保存。公開してよい控えのみ assets/ に保存"
   constraints:
     check_in: "11:00〜16:00"
     check_out: "8:00〜10:00"
