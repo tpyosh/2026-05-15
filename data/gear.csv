@@ -1,11 +1,11 @@
 owner,category,item,quantity,packed,notes
-達平,site,大きいタープ,1,no,雨天・日差し対策
-達平,lighting,ランタン,1,no,メインまたは予備
-達平,cooking,CD缶,1本,no,ガスコンロ用燃料
-達平,cooking,フライパン,1,no,調理器具
-達平,cooking,鍋,1,no,調理器具
+達平,site,大きいタープ,1,yes,雨天・日差し対策
+達平,lighting,ランタン,1,yes,メインまたは予備
+達平,cooking,CD缶,1本,yes,ガスコンロ用燃料
+達平,cooking,フライパン,1,yes,調理器具
+達平,cooking,鍋,1,yes,調理器具
 達平,cooking,2Lのクッカー,1,no,調理器具
-達平,cooking,ボウル,1,no,調理器具
+達平,cooking,ボウル,1,yes,調理器具
 達平,cooking,円錐型のコーヒーフィルター,必要数,no,コーヒー用
 達平,cooking,ビニール手袋,必要数,no,調理・衛生用
 達平,cooking,金属製の串,必要数,no,調理器具
